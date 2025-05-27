@@ -64,6 +64,8 @@ $ npm install --save @nestjs/typeorm typeorm
 # For API documentation using Swagger
 $ npm install --save @nestjs/swagger swagger-ui-express
 
+# To run Swagger
+$ localhost:3000/api
 ```
 
 ## Compile and run the project
