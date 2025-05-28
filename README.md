@@ -82,7 +82,7 @@ EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_USER=yourgmail
 EMAIL_PASSWORD=your app password
-JWT_SECRET_KEY=useyoursecret
+JWT_SECRET_KEY=useyoursecretkey
 JWT_EXPIRES=1h
 
 ```
