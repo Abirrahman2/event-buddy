@@ -75,6 +75,17 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 ```
+## Environment variable
+
+```bash
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USER=yourgmail
+EMAIL_PASSWORD=your app password
+JWT_SECRET_KEY=useyoursecret
+JWT_EXPIRES=1h
+
+```
 
 
 
